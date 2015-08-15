@@ -1,0 +1,8 @@
+{
+    "name": "demo-package",
+    "autoload": {
+        "psr-0" : {
+            "marikudo\\demo-package" : "master"
+        }
+    }
+}
